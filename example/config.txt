@@ -1,0 +1,1 @@
+Plugin FASTQContig inputfile parameters.txt outputfile .
